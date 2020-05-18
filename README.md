@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 # Step 2. Add the dependency
 ```java
 	dependencies {
-	        implementation 'com.github.wy749814530:OkHttpUtils:Tag'
+	        implementation 'com.github.wy749814530:OkHttpUtils:1.0.1'
 	}
 ```
 
